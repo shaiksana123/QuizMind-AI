@@ -61,4 +61,4 @@ B.Tech – Computer Science and Data Science
 
 ---
 
-*Built with curiosity, learning and AI.*
+*Turn Your Study Material into Smart Quizzes.*
